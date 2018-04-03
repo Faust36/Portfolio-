@@ -1698,7 +1698,9 @@
 		}
 
 /* Image */
-
+.resume{
+	color: black;
+}
 	.image {
 		display: inline-block;
 		border: 0;
